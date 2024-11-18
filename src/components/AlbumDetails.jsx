@@ -108,32 +108,49 @@ const albumData = {
   13: {
     name: 'Maharshi',
     album: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgYtbhN--gPvtqtdtXKOODkqJG0jlCYFBEBzBnJnxd43zVGmkmN1jkd2Omn9nOkmbEknut",
-    songName: ['Padara Padara', 'Choti Choti Baatein', 'Everest Anchuna'],
-    audioPath: []
+    songName: ['Choti Choti Baatein', 'Paala Pitta', 'Idhe Kadha Nee Katha' ,'Nuvvani Idhi Needani'],
+    audioPath: ["/songs/maharshi/[iSongs.info] 01 - Choti Choti Baatein.mp3",
+      "/songs/maharshi/[iSongs.info] 05 - Paala Pitta.mp3",
+      "/songs/maharshi/[iSongs.info] 07 - Idhe Kadha Nee Katha.mp3",
+      "/songs/maharshi/[iSongs.info] 08 - Nuvvani Idhi Needani.mp3"
+    ]
   },
   14: {
     name: 'Jersey',
     album: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2RRSZ9VxJVJKgsVGo6vFdoGiHwQ01hsYE3R1lkI2r_H60n_7q",
-    songName: ['Adhento Gaani', 'Spirit of Jersey', 'Prapanchame Alaa'],
-    audioPath: []
+    songName: ['Aarambhame', 'Spirit of Jersey', 'Prapanchame Alaa'],
+    audioPath: ["/songs/jersey/[iSongs.info] 06 - Aarambhame Le.mp3",
+      "/songs/jersey/[iSongs.info] 02 - Spirit Of Jersey.mp3",
+      "/songs/jersey/[iSongs.info] 04 - Prapanchame Alaa.mp3"
+    ]
   },
   15: {
     name: 'Fidaa',
     album: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHNfRyxqNAOisatY1Cs5aA7odqhIsBS8ugw7MH-IT41TDh5LJQ6lCsuHONqUyC_sDyV7nUiA",
     songName: ['Vachinde', 'Hey Pillagaada', 'Oosupodu'],
-    audioPath: []
+    audioPath: ["/songs/fidaa/Vachinde-SenSongsMp3.Co.mp3" ,
+      "/songs/fidaa/Hey Pillagaada-SenSongsMp3.Co.mp3",
+      "/songs/fidaa/Oosupodu-SenSongsMp3.Co.mp3"
+    ]
   },
   16: {
     name: 'Magadheera',
     album: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSUiR4TNrr8BSv3YIhlsARQst5YTeCEXVvS1acibuiZ94iQfl_fIlrm5or6KXKto4euUE9L",
-    songName: ['Panchadara Bomma', 'Dheera Dheera', 'Jorse Jorse'],
-    audioPath: []
+    songName: ['Panchadara Bomma', 'Bangaru Kodipetta', 'Nakosam Nuvu' , 'Rolling Title'],
+    audioPath: ["/songs/Magadheera/[iSongs.info] 03 - Panchadhara Bomma.mp3" ,
+      "/songs/Magadheera/[iSongs.info] 01 - Bangaru Kodipetta.mp3",
+      "/songs/Magadheera/[iSongs.info] 05 - Nakosam Nuvu.mp3",
+      "/songs/Magadheera/[iSongs.info] 06 - Rolling Title Music.mp3"
+    ]
   },
   17: {
     name: 'Eega',
     album: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiHQOyXpMsw61KlV0PXzdzoFKUFGrtInpSJ-9gwnUqTB8rr9uYeWBNguf3Qqj9_QjnmweuWA",
     songName: ['Nene Nani Ne', 'Eega Eega', 'Konchem Konchem'],
-    audioPath: []
+    audioPath: ["/songs/Eaga/Nene - Nanine - SenSongsmp3.Co.mp3",
+      "/songs/Eaga/Ga Eega Eega Eega (Remix) - SenSongsmp3.Co.mp3",
+      "/songs/Eaga/Konchemu Konchemu - SenSongsmp3.Co.mp3"
+    ]
   },
 
 

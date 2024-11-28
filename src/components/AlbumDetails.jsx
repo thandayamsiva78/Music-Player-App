@@ -128,10 +128,12 @@ const albumData = {
     name: 'Fidaa',
     album: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHNfRyxqNAOisatY1Cs5aA7odqhIsBS8ugw7MH-IT41TDh5LJQ6lCsuHONqUyC_sDyV7nUiA",
     songName: ['Vachinde', 'Hey Pillagaada', 'Oosupodu'],
-    audioPath: ["/songs/fidaa/Vachinde-SenSongsMp3.Co.mp3" ,
+    audioPath: [
+      "/songs/fidaa/Vachinde-SenSongsMp3.Co.mp3",
       "/songs/fidaa/Hey Pillagaada-SenSongsMp3.Co.mp3",
-      "/songs/fidaa/Oosupodu-SenSongsMp3.Co.mp3"
-    ]
+      "/songs/fidaa/Oosupodu-SenSongsMp3.Co.mp3",
+    ],
+    artists: ["2017", "Shakthikanth Karthick"]
   },
   16: {
     name: 'Magadheera',
@@ -153,6 +155,7 @@ const albumData = {
     ]
   },
 
+  
 
 };
 

@@ -7,7 +7,7 @@ function Header() {
             <section className="grid  grid-cols-[1fr_auto] items-center gap-2">
                 <div className="relative bg-custome-gray rounded-3xl max-w-[500px] h-12">
                     <input
-                        className="absolute w-full h-full rounded-3xl bg-transparent pl-4"
+                        className="absolute w-full h-full rounded-3xl bg-transparent pl-4 cursor-not-allowed"
                         placeholder="Search..."
                         type="text" />
                     <div className="absolute right-4 top-3 ">
